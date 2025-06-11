@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Marf-debug/sunnys-stories/static/css/main.215b9a52.css",
-    "main.js": "/Marf-debug/sunnys-stories/static/js/main.db77f1eb.js",
-    "static/js/488.a7c4d90e.chunk.js": "/Marf-debug/sunnys-stories/static/js/488.a7c4d90e.chunk.js",
-    "static/media/jaguarfascists2.png": "/Marf-debug/sunnys-stories/static/media/jaguarfascists2.12ec94b5078a2c65def5.png",
-    "static/media/Bloodspatter.png": "/Marf-debug/sunnys-stories/static/media/Bloodspatter.e7fb6347ba858887a3f4.png",
-    "static/media/pugavatar3.png": "/Marf-debug/sunnys-stories/static/media/pugavatar3.4d4a19521c70610a83eb.png",
-    "static/media/pugavatar.png": "/Marf-debug/sunnys-stories/static/media/pugavatar.0d9756590f1f3ab7463e.png",
-    "index.html": "/Marf-debug/sunnys-stories/index.html",
-    "main.215b9a52.css.map": "/Marf-debug/sunnys-stories/static/css/main.215b9a52.css.map",
-    "main.db77f1eb.js.map": "/Marf-debug/sunnys-stories/static/js/main.db77f1eb.js.map",
-    "488.a7c4d90e.chunk.js.map": "/Marf-debug/sunnys-stories/static/js/488.a7c4d90e.chunk.js.map"
+    "main.css": "/Marf-debug/static/css/main.215b9a52.css",
+    "main.js": "/Marf-debug/static/js/main.d9016cf3.js",
+    "static/js/488.a7c4d90e.chunk.js": "/Marf-debug/static/js/488.a7c4d90e.chunk.js",
+    "static/media/jaguarfascists2.png": "/Marf-debug/static/media/jaguarfascists2.12ec94b5078a2c65def5.png",
+    "static/media/Bloodspatter.png": "/Marf-debug/static/media/Bloodspatter.e7fb6347ba858887a3f4.png",
+    "static/media/pugavatar3.png": "/Marf-debug/static/media/pugavatar3.4d4a19521c70610a83eb.png",
+    "static/media/pugavatar.png": "/Marf-debug/static/media/pugavatar.0d9756590f1f3ab7463e.png",
+    "index.html": "/Marf-debug/index.html",
+    "main.215b9a52.css.map": "/Marf-debug/static/css/main.215b9a52.css.map",
+    "main.d9016cf3.js.map": "/Marf-debug/static/js/main.d9016cf3.js.map",
+    "488.a7c4d90e.chunk.js.map": "/Marf-debug/static/js/488.a7c4d90e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.215b9a52.css",
-    "static/js/main.db77f1eb.js"
+    "static/js/main.d9016cf3.js"
   ]
 }
