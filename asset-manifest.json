@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/sunnys-stories/static/css/main.215b9a52.css",
-    "main.js": "/sunnys-stories/static/js/main.2cb5bc08.js",
-    "static/js/488.a7c4d90e.chunk.js": "/sunnys-stories/static/js/488.a7c4d90e.chunk.js",
-    "static/media/jaguarfascists2.png": "/sunnys-stories/static/media/jaguarfascists2.12ec94b5078a2c65def5.png",
-    "static/media/Bloodspatter.png": "/sunnys-stories/static/media/Bloodspatter.e7fb6347ba858887a3f4.png",
-    "static/media/pugavatar3.png": "/sunnys-stories/static/media/pugavatar3.4d4a19521c70610a83eb.png",
-    "static/media/pugavatar.png": "/sunnys-stories/static/media/pugavatar.0d9756590f1f3ab7463e.png",
-    "index.html": "/sunnys-stories/index.html",
-    "main.215b9a52.css.map": "/sunnys-stories/static/css/main.215b9a52.css.map",
-    "main.2cb5bc08.js.map": "/sunnys-stories/static/js/main.2cb5bc08.js.map",
-    "488.a7c4d90e.chunk.js.map": "/sunnys-stories/static/js/488.a7c4d90e.chunk.js.map"
+    "main.css": "./static/css/main.215b9a52.css",
+    "main.js": "./static/js/main.65a597b4.js",
+    "static/js/488.a7c4d90e.chunk.js": "./static/js/488.a7c4d90e.chunk.js",
+    "static/media/jaguarfascists2.png": "./static/media/jaguarfascists2.12ec94b5078a2c65def5.png",
+    "static/media/Bloodspatter.png": "./static/media/Bloodspatter.e7fb6347ba858887a3f4.png",
+    "static/media/pugavatar3.png": "./static/media/pugavatar3.4d4a19521c70610a83eb.png",
+    "static/media/pugavatar.png": "./static/media/pugavatar.0d9756590f1f3ab7463e.png",
+    "index.html": "./index.html",
+    "main.215b9a52.css.map": "./static/css/main.215b9a52.css.map",
+    "main.65a597b4.js.map": "./static/js/main.65a597b4.js.map",
+    "488.a7c4d90e.chunk.js.map": "./static/js/488.a7c4d90e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.215b9a52.css",
-    "static/js/main.2cb5bc08.js"
+    "static/js/main.65a597b4.js"
   ]
 }
