@@ -1,19 +1,21 @@
 {
   "files": {
-    "main.css": "./static/css/main.215b9a52.css",
-    "main.js": "./static/js/main.65a597b4.js",
+    "main.css": "./static/css/main.af8b8e3c.css",
+    "main.js": "./static/js/main.e92607ca.js",
     "static/js/488.a7c4d90e.chunk.js": "./static/js/488.a7c4d90e.chunk.js",
     "static/media/jaguarfascists2.png": "./static/media/jaguarfascists2.12ec94b5078a2c65def5.png",
+    "static/media/pugavatar4.png": "./static/media/pugavatar4.e211f3afddd7a9a8d6ac.png",
     "static/media/Bloodspatter.png": "./static/media/Bloodspatter.e7fb6347ba858887a3f4.png",
     "static/media/pugavatar3.png": "./static/media/pugavatar3.4d4a19521c70610a83eb.png",
     "static/media/pugavatar.png": "./static/media/pugavatar.0d9756590f1f3ab7463e.png",
+    "static/media/fangs.png": "./static/media/fangs.9e75b9af52d9c4464191.png",
     "index.html": "./index.html",
-    "main.215b9a52.css.map": "./static/css/main.215b9a52.css.map",
-    "main.65a597b4.js.map": "./static/js/main.65a597b4.js.map",
+    "main.af8b8e3c.css.map": "./static/css/main.af8b8e3c.css.map",
+    "main.e92607ca.js.map": "./static/js/main.e92607ca.js.map",
     "488.a7c4d90e.chunk.js.map": "./static/js/488.a7c4d90e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.215b9a52.css",
-    "static/js/main.65a597b4.js"
+    "static/css/main.af8b8e3c.css",
+    "static/js/main.e92607ca.js"
   ]
 }
