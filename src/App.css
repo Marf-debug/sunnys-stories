@@ -25,6 +25,17 @@
   color: #61dafb;
 }
 
+.title-screen {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title-screen-image {
+  width: 50%;
+  margin-bottom: 40px;
+}
+
 .game-window {
   display: flex;
   flex-direction: row;
@@ -42,6 +53,7 @@
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
 }
 
 .player-window p {
@@ -49,9 +61,11 @@
 }
 
 .avatar-window {
-  width: 50%;
+  max-width: 180px;
+  min-height: 180px;
   border: 8px solid #ffffff;
   position: relative;
+  margin-top: 10px;
 }
 .character-avatar {
   width: 100%;
@@ -73,12 +87,62 @@
 }
 
 .enemy-avatar {
-  height: 80%;
+  width: 420px;
+  height: 600px;
   border: 8px solid #ffffff;
+  margin-right: 20px;
+}
+
+.enemy-dialogue {
+  border: 2px solid #ffffff;
+  padding: 10px !important;
+  border-radius: 20px 20px 0px 20px;
+  box-shadow: 0 0 10px #ffff;
+}
+
+.enemy-dialogue2 {
+  border: 2px solid #ffffff;
+  padding: 10px !important;
+  border-radius: 20px 0px 20px 20px;
+  box-shadow: 0 0 10px #ffff;
+}
+
+.enemy-battle-dialogue-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.enemy-battle-dialogue {
+  padding: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  opacity: 0;
+  transform: translateY(10px);
+  animation: fadeInUp 1.6s ease forwards;
+  animation-delay: 1.5s; /* Adjust delay as needed */
+}
+
+@keyframes fadeInUp {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.hero-dialogue {
+  border: 2px solid #ffffff;
+  padding: 10px !important;
+  border-radius: 0px 20px 20px 20px;
+  box-shadow: 0 0 10px #ffff;
 }
 
 .pug-health-bar {
-  margin-top: 8px;
+  margin-top: 12px;
+  margin-bottom: 16px;
   font-size: 16px;
   border: 2px solid #333;
   box-shadow: 0 0 0 3px #666;
@@ -142,7 +206,7 @@
   display: flex;
   flex-direction: row;
   align-items: center;
-  justify-content: center;
+  justify-content: space-evenly;
 }
 
 .encounter-display {
@@ -171,11 +235,51 @@ background-size: 100% 100%;
 }
 
 .enemy-list {
-  margin-right: 50px;
   width: 30vw;
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+
+.damage-counter {
+  color: red;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+}
+
+.enemy-ishit-icon {
+  position: relative;
+}
+
+.fangs-icon {
+  width: 50px;
+  height: 50px;
+}
+
+.fangs-icon-bear {
+  width: 100px;
+  height: 100px;
+}
+
+.damage {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1000;
+  color: #ffffff;
+}
+
+.damage-polar {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 1000;
+  color: #ffffff;
 }
 
 .enemy-bar {

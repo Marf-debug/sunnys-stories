@@ -2,7 +2,7 @@
   "name": "sunnystories",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Marf-debug/sunnys-stories",
+  "homepage": ".",
   "dependencies": {
     "cra-template": "1.3.0",
     "framer-motion": "^12.16.0",
